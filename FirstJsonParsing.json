@@ -1,0 +1,19 @@
+{
+  "email":"sfsd@dsfsd.sdfsd",
+  "firstName":"Rahul",
+  "lastName":"Jha",
+  "age":44,
+  "address":
+  {
+    "state":"UP",
+    "country":"India",
+    "abc":
+    {
+    	"dist":"East Delhi",
+    	"pin":12345
+    
+    }
+  }
+  
+
+}
